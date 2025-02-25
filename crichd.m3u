@@ -1,0 +1,247 @@
+#EXTM3U
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/1.jpg",Sky Sports Main Event
+https://cric.ottcdn.workers.dev/live/skysme.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/3.png",Sky Sports  Cricket
+https://cric.ottcdn.workers.dev/live/skyscric.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/4.png",Sky Sports  Action
+https://cric.ottcdn.workers.dev/live/skysact.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/5.png",Sky Sports  Golf
+https://cric.ottcdn.workers.dev/live/skysgol.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/6.jpg",Sky Sports Premier League
+https://cric.ottcdn.workers.dev/live/skysprem.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/47.png",Sky Sports Football
+https://cric.ottcdn.workers.dev/live/skysfott.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/48.png",Sky Sports Arena
+https://cric.ottcdn.workers.dev/live/skysare.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/7.png",Sky Sports F1
+https://cric.ottcdn.workers.dev/live/skysfor1.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/8.png",Sky Sports Mix
+https://cric.ottcdn.workers.dev/live/skysmixx.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/9.png",Sky Sports News
+https://cric.ottcdn.workers.dev/live/skyspnews.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Sky Sports Tennis
+https://cric.ottcdn.workers.dev/live/skystennis.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/10.gif",TNT Sports 1
+https://cric.ottcdn.workers.dev/live/bbtsp1.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/11.gif",TNT Sports 2
+https://cric.ottcdn.workers.dev/live/bbtsp2.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/12.gif",TNT Sports 3
+https://cric.ottcdn.workers.dev/live/bbtsp3.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/13.gif",TNT Sports 4
+https://cric.ottcdn.workers.dev/live/bbtespn.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/14.png",EuroSport 1
+https://cric.ottcdn.workers.dev/live/eurosp1.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/15.png",EuroSport 2
+https://cric.ottcdn.workers.dev/live/eurosp2.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/17.gif",Viaplay Sports 1
+https://cric.ottcdn.workers.dev/live/premieruk.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/28.gif",Viaplay Sports 2 (CH2)
+https://cric.ottcdn.workers.dev/live/hdchnl2.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/29.gif",Viaplay Sports Xtra (CH3)
+https://cric.ottcdn.workers.dev/live/hdchnl3.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/54.png",LaLiga Tv
+https://cric.ottcdn.workers.dev/live/laligauk.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/137.png",Sky Sport 1 NZ
+https://cric.ottcdn.workers.dev/live/sky1nz.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/138.png",Sky Sport 2 NZ
+https://cric.ottcdn.workers.dev/live/sky2nz.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/144.png",Sky Sport 3 NZ
+https://cric.ottcdn.workers.dev/live/sky3nz.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/139.png",Sky Sport 4 NZ
+https://cric.ottcdn.workers.dev/live/sky4nz.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/140.png",Sky Sport 5 NZ
+https://cric.ottcdn.workers.dev/live/sky5nz.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/141.png",Sky Sport 6 NZ
+https://cric.ottcdn.workers.dev/live/sky6nz.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/145.png",Sky Sport 7 NZ
+https://cric.ottcdn.workers.dev/live/sky7nz.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/142.png",Sky Sport 8 NZ
+https://cric.ottcdn.workers.dev/live/sky8nz.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/143.png",Sky Sport 9 NZ
+https://cric.ottcdn.workers.dev/live/sky9nz.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/93.png",SuperSport Football
+https://cric.ottcdn.workers.dev/live/superfotball.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/94.png",SuperSport Premier
+https://cric.ottcdn.workers.dev/live/superpremier.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/95.png",SuperSport Laliga
+https://cric.ottcdn.workers.dev/live/superlaliga.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/96.png",SuperSport Rugby
+https://cric.ottcdn.workers.dev/live/supersrugby.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/97.png",SuperSport Grandstand
+https://cric.ottcdn.workers.dev/live/supergrandstand.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/98.jpg",SuperSport Tennis
+https://cric.ottcdn.workers.dev/live/supertennis.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/99.png",SuperSport Action
+https://cric.ottcdn.workers.dev/live/superactions.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/100.png",SuperSport Golf
+https://cric.ottcdn.workers.dev/live/supergolf.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/101.png",SuperSport Maximo
+https://cric.ottcdn.workers.dev/live/supermeximo.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/102.png",Fox 502 HD
+https://cric.ottcdn.workers.dev/live/fox5022.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/103.png",Fox 503 HD
+https://cric.ottcdn.workers.dev/live/fox503.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/104.png",Fox 504 HD
+https://cric.ottcdn.workers.dev/live/fox504.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/105.png",Fox 505 HD
+https://cric.ottcdn.workers.dev/live/fox505.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/106.png",Fox 506 HD
+https://cric.ottcdn.workers.dev/live/fox506.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/127.jpg",SuperSport PSL
+https://cric.ottcdn.workers.dev/live/superpsl.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/16.gif",WWE Network
+https://cric.ottcdn.workers.dev/live/wwe.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/18.png",PTV Sports
+https://cric.ottcdn.workers.dev/live/ptvpk.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/19.png",Star Sports
+https://cric.ottcdn.workers.dev/live/star1in.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/20.png",Willow Cricket HD
+https://cric.ottcdn.workers.dev/live/willowusa.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/49.png",SuperSport Cricket HD
+https://cric.ottcdn.workers.dev/live/supercricket.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/50.gif",TEN Sports pk
+https://cric.ottcdn.workers.dev/live/tenspk.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/51.gif",Star Sports 1 Hindi
+https://cric.ottcdn.workers.dev/live/starhindi.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/53.png",Star Sports 2
+https://cric.ottcdn.workers.dev/live/star2in.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/55.png",Willow Cricket Extra
+https://cric.ottcdn.workers.dev/live/willowextra.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/56.png",A Sports HD
+https://cric.ottcdn.workers.dev/live/asportshd.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/81.png",Fox Cricket 501 HD
+https://cric.ottcdn.workers.dev/live/fox501.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/147.png",ESPN US
+https://cric.ottcdn.workers.dev/live/espnusa.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/148.png",ESPN 2 US
+https://cric.ottcdn.workers.dev/live/espn2.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/21.jpg",Geo Super
+https://cric.ottcdn.workers.dev/live/geosp.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/22.png",Sony ESPN
+https://cric.ottcdn.workers.dev/live/sonyespnind.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/23.png",Sony Six
+https://cric.ottcdn.workers.dev/live/sonysixind.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/25.png",Sky Sports Box Office
+https://cric.ottcdn.workers.dev/live/hdchnl20.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/uploads/channels/52.png",TEN 1
+https://cric.ottcdn.workers.dev/live/ten1hd.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Bein Sports 3 English
+https://cric.ottcdn.workers.dev/live/bein3en.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Bein Sports 1 English
+https://cric.ottcdn.workers.dev/live/bein1en.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Bein Sports 2 English
+https://cric.ottcdn.workers.dev/live/bein2en.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Bein Sports 1 AR
+https://cric.ottcdn.workers.dev/live/bein1arab.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Bein Sports 2 AR
+https://cric.ottcdn.workers.dev/live/bein2arab.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Bein Sports 3 AR
+https://cric.ottcdn.workers.dev/live/bein3arab.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Bein Sports 4 AR
+https://cric.ottcdn.workers.dev/live/bein4arab.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Bein Sports 5 AR
+https://cric.ottcdn.workers.dev/live/bein5arab.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Bein Sports 6 AR
+https://cric.ottcdn.workers.dev/live/bein6arab.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Bein Sports 7 AR
+https://cric.ottcdn.workers.dev/live/bein7arab.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",ITV 4 UK
+https://cric.ottcdn.workers.dev/live/itv4.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",beIN SPORTS 1 Premium
+https://cric.ottcdn.workers.dev/live/bein1prem.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",beIN SPORTS 2 Premium
+https://cric.ottcdn.workers.dev/live/bein2prem.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",beIN SPORTS 3 Premium
+https://cric.ottcdn.workers.dev/live/bein3prem.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",beIN SPORTS 1 FR
+https://cric.ottcdn.workers.dev/live/bein1fr.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",beIN SPORTS 2 FR
+https://cric.ottcdn.workers.dev/live/bein2fr.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",beIN SPORTS 3 FR
+https://cric.ottcdn.workers.dev/live/bein3fr.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Gazi TV BD
+https://cric.ottcdn.workers.dev/live/gazitv.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Bein Sports XTRA 1 HD
+https://cric.ottcdn.workers.dev/live/bein1extra.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Bein Sports XTRA 2 HD
+https://cric.ottcdn.workers.dev/live/bein2extra.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",beIN Sports Canada HD
+https://cric.ottcdn.workers.dev/live/ptvpk.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",DAZN 1 España
+https://cric.ottcdn.workers.dev/live/dazn1es.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",M. LaLiga
+https://cric.ottcdn.workers.dev/live/mlaliga.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",DAZN LALIGA España
+https://cric.ottcdn.workers.dev/live/daznlaliga.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",beIN Sport USA
+https://cric.ottcdn.workers.dev/live/bbeinusapop23.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",beIN Sports MAX 2
+https://cric.ottcdn.workers.dev/live/bein2max.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Gol Mundial ES
+https://cric.ottcdn.workers.dev/live/golmundiales.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",FOX Sports 1 USA
+https://cric.ottcdn.workers.dev/live/usafox1.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png", beIN Sports 1 France
+https://cric.ottcdn.workers.dev/live/bein1france.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png", beIN Sports 2 France
+https://cric.ottcdn.workers.dev/live/bein2france.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Gol Mundial 2 ES
+https://cric.ottcdn.workers.dev/live/golmundiales2.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Arena Sport 6 Croatia
+https://cric.ottcdn.workers.dev/live/arena6.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Sky Sports F1 BackUp
+https://cric.ottcdn.workers.dev/live/skysfor1.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Sky Sports Cricket UK Backup
+https://cric.ottcdn.workers.dev/live/skyscric.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",FOX Sports 2 USA
+https://cric.ottcdn.workers.dev/live/usafox2.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",FOX Soccer Plus
+https://cric.ottcdn.workers.dev/live/foxsoccerplus.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Hub Premier 1
+https://cric.ottcdn.workers.dev/live/hubpremier1.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Hub Premier 2
+https://cric.ottcdn.workers.dev/live/hubpremier2.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Hub Premier 3
+https://cric.ottcdn.workers.dev/live/hubpremier3.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Hub Premier 4
+https://cric.ottcdn.workers.dev/live/hubpremier4.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Hub Premier 5
+https://cric.ottcdn.workers.dev/live/hubpremier5.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Channel 1 (BBC ONE)
+https://cric.ottcdn.workers.dev/live/hdchnl1.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Channel 4 ( ITV UK )
+https://cric.ottcdn.workers.dev/live/hdchnl4.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Channel 5 ( BBC2 )
+https://cric.ottcdn.workers.dev/live/hdchnl5.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Channel 6 - SuperSport Variety 1
+https://cric.ottcdn.workers.dev/live/hdchnl6.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Channel 7 - SuperSport Variety 2
+https://cric.ottcdn.workers.dev/live/hdchnl7.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Channel 8 - SuperSport Variety 3
+https://cric.ottcdn.workers.dev/live/hdchnl8.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Channel 9 - SuperSport Variety 4
+https://cric.ottcdn.workers.dev/live/hdchnl9.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Ch10 ( BT Sport 5 )
+https://cric.ottcdn.workers.dev/live/hdchnl10.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Ch11 ( BT Sport 6 )
+https://cric.ottcdn.workers.dev/live/hdchnl11.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Ch12 ( BT Sport 7 )
+https://cric.ottcdn.workers.dev/live/hdchnl12.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Ch13 ( BT Sport 8 )
+https://cric.ottcdn.workers.dev/live/hdchnl13.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Ch14 ( BT Sport 9 )
+https://cric.ottcdn.workers.dev/live/hdchnl14.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Ch15 ( BT Sport 10 )
+https://cric.ottcdn.workers.dev/live/hdchnl15.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Channel 16
+https://cric.ottcdn.workers.dev/live/hdchnl16.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Channel 17
+https://cric.ottcdn.workers.dev/live/hdchnl17.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Channel 18
+https://cric.ottcdn.workers.dev/live/hdchnl18.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Channel 19 ( Sports18 HD )
+https://cric.ottcdn.workers.dev/live/hdchnl19.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",Channel 20
+https://cric.ottcdn.workers.dev/live/hdchnl20.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://new.crichd.tv/assets/images/custom-channels.png",HIGH HD 3
+https://cric.ottcdn.workers.dev/live/mls786.m3u8
